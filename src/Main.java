@@ -4,8 +4,8 @@ import javax.swing.*;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Домашнее задание №8");
-        System.out.println("Массивы. Урок 1");
+        System.out.println("Домашнее задание №9");
+        System.out.println("Массивы. Урок 2");
         int taskNumberRun;
         try {
             taskNumberRun = Integer.parseInt(JOptionPane.showInputDialog(null,
